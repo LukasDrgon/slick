@@ -15,7 +15,7 @@ To start working with Slick right away, there's a couple of CDN choices availabi
 to serve the files as close, and fast as possible to your users:
 
 - https://cdnjs.com/libraries/slick-carousel
-- https://www.jsdelivr.com/projects/jquery.slick
+- https://www.jsdelivr.com/projects/jquery.slick [![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/slick-carousel-extended/badge)](https://www.jsdelivr.com/package/npm/slick-carousel-extended)
 
 ##### Example using jsDelivr
 
